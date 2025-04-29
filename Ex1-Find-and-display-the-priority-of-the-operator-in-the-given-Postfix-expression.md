@@ -1,7 +1,7 @@
 # EXERCISE 1: Display Operator Precedence in the Infix Expression
 
 ## DATE:
-*29-04-2025*
+*23-02-2025*
 
 ## AIM:
 To write a C program to find and display the priority of the operators in a given **Postfix expression**.
