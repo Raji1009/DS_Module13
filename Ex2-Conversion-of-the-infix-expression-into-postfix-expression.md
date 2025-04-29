@@ -29,8 +29,8 @@ To write a C program to convert the **infix expression** into **postfix form** u
 ```
 /*
 Program to convert the infix expression into postfix expression
-Developed by: ChatGPT
-RegisterNumber: 212221230001
+Developed by: Rajalakshmi R
+RegisterNumber: 21222311037
 */
 
 #include <stdio.h>
